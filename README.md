@@ -8,7 +8,7 @@ CS undergraduate at **National Sun Yat-sen University (NSYSU)**. Recently focuse
 
 - **Languages:** Java and C++(mainly), and a litte bit C and Python.
 - **Embedded & Edge AI:** TinyML / On-device AI inference, Computer Vision deployment
-- **Web & Backend:** Modern Web, Supabase, Vercel (Ya, sth like vibe coding)
+- **Web & Backend:** HTML, CSS, Supabase, Vercel
 - **DevOps & Tools:** Git, Linux / Bash
 
 ---
