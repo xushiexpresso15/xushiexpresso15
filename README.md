@@ -10,6 +10,7 @@ CS undergraduate at **National Sun Yat-sen University (NSYSU)**. Recently focuse
 - **Embedded & Edge AI:** TinyML / On-device AI inference, Computer Vision deployment
 - **Web & Backend:** HTML, CSS, Supabase, Vercel
 - **DevOps & Tools:** Git, Linux / Bash
+- **Currently learning:** MySQL, typescript 
 
 ---
 
