@@ -7,9 +7,19 @@ CS undergraduate at **National Sun Yat-sen University (NSYSU)**. Recently focuse
 ### Tech Stack
 
 - **Languages:** Excels in `Java` and `C++`, and a litte bit `C` and `Python`.
-- **Embedded & Edge AI:** `TinyML / On-device AI inference`, `Computer Vision`
-- **Web & Backend:** `HTML`, `CSS`, `Supabase (PostgreSQL)`, `Vercel`
+
 - **DevOps & Tools:** `Git`, `Linux / Bash`
+
+- **OS:**  `Windows`, `linux (Ubuntu)`
+
+---
+
+### Recently delicated and learning
+
+- **Embedded & Edge AI:** `TinyML / On-device AI inference`, `Computer Vision`
+  
+- **Web & Backend:** `HTML`, `CSS`, `Supabase (PostgreSQL)`, `Vercel`
+  
 - **Currently learning:** `MySQL`, `typescript`, `n8n` 
 
 ---
