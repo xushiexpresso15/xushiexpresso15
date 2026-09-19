@@ -18,7 +18,7 @@ CS undergraduate at **National Sun Yat-sen University (NSYSU)**. Recently focuse
 <p align="center">
   <img src="https://github-readme-stats-z.vercel.app/api?username=xushiexpresso15&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats-z.vercel.app/api/top-langs/?username=xushiexpresso15&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats-z.vercel.app/api/top-langs/?username=xushiexpresso15&layout=compact&theme=tokyonight&exclude_repo=github-readme-statsZ" alt="Top Langs" />
 </p>
 
 ---
