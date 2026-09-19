@@ -24,6 +24,6 @@ CS undergraduate at **National Sun Yat-sen University (NSYSU)**. Recently focuse
 
 ---
 
-### Connect with Me
+### Contact with Me
 
 - **Email:** `freud123freud234freud345@gmail.com`
