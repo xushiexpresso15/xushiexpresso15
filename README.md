@@ -1,6 +1,6 @@
 # Hi, I'm Jun-Jie Xu
 
-CS undergraduate at **National Sun Yat-sen University (NSYSU)**. Recently focused on **embedded / Edge AI**, and sometimes building some software tools.
+CS undergraduate at **National Sun Yat-sen University (NSYSU)**. Recently focused on **embedded / Edge AI**, and sometimes building some cool software tools.
 
 ---
 
