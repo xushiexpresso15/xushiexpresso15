@@ -10,7 +10,7 @@ CS undergraduate at **National Sun Yat-sen University (NSYSU)**. Recently focuse
 
 - **DevOps & Tools:** `Git`, `Linux / Bash`
 
-- **OS:**  `Windows`, `linux (Ubuntu)`
+- **OS:**  `MacOS`, `Windows`, `linux (Ubuntu)`
 
 ---
 
